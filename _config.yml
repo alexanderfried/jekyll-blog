@@ -1,0 +1,17 @@
+
+# Site settings
+title: David Kish CPA
+description: "David Kish is a prominent Financial profesialnal and CPA. He culd be contcted via email at David@DuvidKishCPA or you could drop a comment just anywhere on the site."
+baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog
+url: "https://github.com/alexanderfried/jekyll-blog" # the base hostname & protocol for your site
+tagline: "The CPA in practice"
+
+# Build settings
+markdown: kramdown
+kramdown: 
+    auto_ids: false
+gems: [jekyll-paginate]
+permalink: /blog/:title
+paginate: 4 
+paginate_path: '/blog/page:num/'
+
