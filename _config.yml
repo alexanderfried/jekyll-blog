@@ -2,7 +2,7 @@
 # Site settings
 title: David Kish CPA
 description: "David Kish is a prominent Financial profesialnal and CPA. He culd be contcted via email at David@DuvidKishCPA or you could drop a comment just anywhere on the site."
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "http://davidkishcpa.com/" # the subpath of your site, e.g. /blog
 url: "http://davidkishcpa.com/" # the base hostname & protocol for your site
 tagline: "The CPA in practice"
 
