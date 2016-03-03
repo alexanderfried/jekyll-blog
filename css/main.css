@@ -606,7 +606,8 @@ aside li {
 	margin-top: 1em;
 	color: white;
 }
-.legal {
+footer {
+    text-align: center;
 	font-size: .7em;
 	margin: 0;
 }
@@ -619,8 +620,6 @@ aside li {
 }
 .top-link:before {
 	content: '\25b2\00a0';
-}
-
 }
 /* -------------------------------------------------- 
    Smaller screen styles
@@ -792,7 +791,7 @@ a.more {
 /* -------------------------------------------------- 
    main footer styles
 -----------------------------------------------------*/
-.legal {
+footer {
 	text-align: center;
 }
 }
