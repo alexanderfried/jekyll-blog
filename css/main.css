@@ -578,6 +578,7 @@ aside li {
 	display: flex;
 	justify-content: flex-start;
 }
+
 .social a {
 	text-indent: -9000em;
 	display: inline-block;
