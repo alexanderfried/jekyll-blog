@@ -574,12 +574,22 @@ aside ul {
 aside li {
 	margin-bottom: 0.5em;
 }
+.social {
+	display: flex;
+	justify-content: flex-start;
+}
 .social a {
 	text-indent: -9000em;
 	display: inline-block;
     margin-right: 15px;
 	width: 32px;
 	height: 32px;
+}
+.github {
+	background: url(../images/github.svg) no-repeat;
+}
+.fb {
+	background: url(../images/facebook.svg) no-repeat;
 }
 .linked {
 	background: url(../images/linkedin.svg) no-repeat;
